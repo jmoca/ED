@@ -26,3 +26,4 @@ public class PuntoImpl implements Punto{
     }
 }
 // Los Derivados no se meten en la interfaz
+// Los datos reales son de tipo Double
