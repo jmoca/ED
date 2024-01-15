@@ -25,3 +25,4 @@ public class PuntoImpl implements Punto{
          return "("+x+", "+y+")";
     }
 }
+// Los Derivados no se meten en la interfaz
