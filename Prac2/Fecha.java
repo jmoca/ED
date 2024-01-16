@@ -1,5 +1,7 @@
 package ED.Prac2;
 
+import java.util.Date;
+
 public class Fecha {
     private Integer dia;
     private Integer mes;
@@ -19,6 +21,6 @@ public class Fecha {
         return ano;
     }
     public String toString(){
-        return dia+"/"+mes+"/"+ano;
+        return "- "+dia+"/"+mes+"/"+ano;
     }
 }

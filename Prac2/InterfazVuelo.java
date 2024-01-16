@@ -1,6 +1,5 @@
 package ED.Prac2;
 
-import java.util.Date;
 
 public interface InterfazVuelo {
     String getCod_Vuelo();
@@ -10,7 +9,7 @@ public interface InterfazVuelo {
     Integer getNum_Plazas();
     Integer getNum_Pasajeros();
     void setNum_Pasajeros(Integer Num_Pasajeros);
-    Date getFecha_sali();
+    Fecha getFecha_sali();
 
 
 }
