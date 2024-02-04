@@ -1,4 +1,4 @@
-package ED;
+package ED_pract4;
 
 public interface Punto3D_interfaz {
     double getX();

@@ -1,4 +1,4 @@
-package ED;
+package ED_pract4;
 
 
 public class Punto3D implements Punto3D_interfaz {
@@ -41,6 +41,7 @@ public class Punto3D implements Punto3D_interfaz {
         double dx = this.x - otroPunto.x;
         double dy = this.y - otroPunto.y;
         double dz = this.z - otroPunto.z;
+        //sqrt es para hacer la raiz cuadrada
         return Math.sqrt(dx * dx + dy * dy + dz * dz);
     }
 

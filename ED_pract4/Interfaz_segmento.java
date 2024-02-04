@@ -1,4 +1,4 @@
-package ED;
+package ED_pract4;
 
 public interface Interfaz_segmento {
     Punto3D getExtremo1();

@@ -1,4 +1,4 @@
-package ED;
+package ED_pract4;
 
 
 public class Test_punto {
