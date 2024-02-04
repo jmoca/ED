@@ -4,9 +4,9 @@ package ED_pract4;
 public class Test_punto {
     public static void main(String[] args) {
         // Crear puntos en 3D
-        Punto3D punto1 = new Punto3D(0, 0, 0);
-        Punto3D punto2 = new Punto3D(1, 1, 1);
-        Punto3D punto3 = new Punto3D(2, 3, 4);
+        Punto3D punto1 = new Punto3D(20.5, 30.5, 40.5);
+        Punto3D punto2 = new Punto3D(80.5, 90.5, 150.5);
+        Punto3D punto3 = new Punto3D(12.2, 13.3, 14.4);
 
         // Imprimir coordenadas de los puntos
         System.out.println("Coordenadas de los puntos:");
